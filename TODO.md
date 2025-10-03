@@ -1,0 +1,4 @@
+- [ ] Add patrolDistance and startPosition variables to Enemy.cs
+- [ ] Set startPosition in Start() method
+- [ ] Replace Update() logic with position-based patrolling
+- [ ] Remove unused raycast variables and OnDrawGizmosSelected
